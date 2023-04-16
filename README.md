@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iamserda
-- 👀 I’m interested in Software Engineering, CompSci, Econ, Fin, Tech, FinTech, Blockchain and more.
-- 🌱 I’m currently learning Python, Django, Algos, and GCP.
-- 💞️ I’m looking to collaborate on... N/A
-- 📫 How to reach me ... N/A
+- 👀 I’m interested in SwEng, ML/AI App Engineering, Pure CompSci(algo, ds, and more), Econ, Fin, FinTech. Curious about Blockchian, Web3, etc...
+- 🌱 I’m currently learning and working using Python3, Django3+, and GCP.
+- 📫 How to reach me ... @iamserda on Twitter.
 
 <!---
 iamserda/iamserda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
