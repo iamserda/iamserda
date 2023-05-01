@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@iamserda](https://twitter.com/iamserda)
-- 👀 I’m interested in Software Engineering, Applied Machine Learning, Applied Artificial Intelligence, Scalability, Econ, Fin, FinTech and DS&A. 
-- 👀 Curious about Blockchian, Web3, etc...
+- 👀 I’m interested in Software Engineering, Applied ML/AI, Web Services Scalability, Econ, Fin, FinTech, DS&A, Backend and Frontend Engineering. 
+- 👀 A little curious about Blockchian, Web3, etc...
 - 🌱 I’m currently learning and working using Python3, Django3+, and GCP.
 - 📫 How to reach me ... @iamserda on Twitter.
 
