@@ -1,4 +1,4 @@
-- 👋 Hi, I’m (@iamserda)[https://twitter.com/iamserda]
+- 👋 Hi, I’m [@iamserda](https://twitter.com/iamserda)
 - 👀 I’m interested in Software Engineering, Applied Machine Learning, Applied Artificial Intelligence, Scalability, Econ, Fin, FinTech and DS&A. 
 - 👀 Curious about Blockchian, Web3, etc...
 - 🌱 I’m currently learning and working using Python3, Django3+, and GCP.
