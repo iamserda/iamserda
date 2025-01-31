@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@iamserda](https://twitter.com/iamserda)
-- 👀 I’m interested in Software Engineering, Distributed Systems, Scalability, Algorithms, Data Structures...
-- Other interests are: Applied ML/AI, Economics, Finance, FinTech, a good cold brew(both java or ipa instances).
-- 🌱 I’m currently building backend services using Python with frameworks like Flask and Django to dockerized and deployed on cloud services like AWS, GCP, Azure, OpenShift.
+- 👀 I’m interested in Software Engineering, Distributed Systems, Algorithms, Data Structures...
+- Other interests are: Applied ML/AI, Economics, Finance, FinTech.
+- 🌱 I’m currently building backend services for Accenture and its clients.
 - 📫 How to reach me: X: [@iamserda](https://twitter.com/iamserda)
 
 <!---
